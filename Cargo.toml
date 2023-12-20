@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "hlsvm",
+]
+resolver = "2"
